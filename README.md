@@ -2,21 +2,20 @@
 
 I build AI agents that do real work. Orange County, CA.
 
-Right now that's [Gainful](https://gainful.work), a job-search agent I founded. A crawler ingests about 45,000 postings a day into a registry of 1.7 million. An agent with 27 tools runs the search, scores postings, and writes applications that cite the candidate's evidenced work history. About 215,000 LLM calls in production for $345 total.
+Right now that's [Gainful](https://gainful.work), a job-search agent I founded. A crawler ingests about 45,000 postings a day into a registry of 1.7 million. An agent with 27 tools runs the search, scores postings, and writes applications that cite the candidate's evidenced work history. About 215,000 model calls in production for $345 total, which is roughly a sixth of a cent each.
 
-Before that I spent five years running the data platform for a homeless-services agency. Sixteen programs' data, HUD federal reporting, and the automation that kept it all moving. That work is in the HMIS repos below.
+Before that I spent five years running the data platform for a homeless-services agency. Sixteen programs, HUD federal reporting, and the scheduled work that kept it moving. Those repositories are private, because the data underneath them concerns real people in crisis.
 
-Since 2017 I've been building a C++ trading system on my own time. The current version is a C++23 terminal and strategy-execution engine connected to a live exchange, tested under address, thread, and undefined-behavior sanitizers.
+Since 2017 I have been building a C++ trading system on my own time. The current version is a C++23 terminal and strategy-execution engine connected to a live exchange, tested under address, thread and undefined-behavior sanitizers.
 
-## Where to look
+## Things you can actually open
 
-- [superpos](https://github.com/ajd3v/superpos), the C++23 trading terminal and strategy-execution engine
-- [gainful](https://github.com/ajd3v/gainful), the job-search agent as a web app
-- [hmisnl](https://github.com/ajd3v/hmisnl), natural-language analytics over HMIS data that refuses to guess
-- [data-shelter-platform](https://github.com/ajd3v/data-shelter-platform), the production HMIS platform, five years in service
-- [guru](https://github.com/ajd3v/guru), a study companion where every claim is a verbatim cited quote
-- [anaeon](https://github.com/ajd3v/anaeon), a control plane that runs online businesses through AI agents
+- [alanj.dev](https://alanj.dev), the case studies, with a video of each product running
+- [teLLeM](https://github.com/ajd3v/teLLeM), a linter for the fingerprints AI leaves in prose. Every finding cites the rule that fired, and it runs in your browser at [tellem.alanj.dev](https://tellem.alanj.dev)
+- [guru](https://github.com/ajd3v/guru), a study companion where every claim is a verbatim cited quote. The reading room is open at [guru.alanj.dev](https://guru.alanj.dev)
+
+Most of my work is in private repositories, either because it is a business or because of what is in the data. The case studies on [alanj.dev](https://alanj.dev) cover those, with the architecture and the numbers.
 
 ## Contact
 
-[linkedin.com/in/ajd3v](https://linkedin.com/in/ajd3v) · alandevaney@gmail.com
+[linkedin.com/in/ajd3v](https://linkedin.com/in/ajd3v) &middot; alandevaney@gmail.com
