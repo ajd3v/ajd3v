@@ -1,6 +1,6 @@
 # Alan De Vaney
 
-I build AI agents that do real work. Orange County, CA.
+I build AI systems that do real work. Orange County, CA.
 
 Right now that's [Gainful](https://gainful.work), a job-search agent I founded. A crawler ingests about 45,000 postings a day into a registry of 1.7 million. An agent with 27 tools runs the search, scores postings, and writes applications that cite the candidate's evidenced work history. About 215,000 model calls in production for $345 total, which is roughly a sixth of a cent each.
 
