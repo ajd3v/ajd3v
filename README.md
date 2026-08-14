@@ -2,7 +2,7 @@
 
 I build AI systems that do real work. Orange County, CA.
 
-Right now that's [Gainful](https://gainful.work), a job-search agent I founded. A crawler ingests about 52,000 postings a day into a registry of 2 million and growing. An agent with 28 tools runs the search, scores postings, and writes applications that cite the candidate's evidenced work history. About 222,000 model calls in production for $348 total, which is roughly a sixth of a cent each.
+Right now that's [Gainful](https://gainful.work), a job-search agent I founded. A crawler ingests about 52k postings a day into a registry of 2 million and growing. An agent with 28 tools runs the search, scores postings, and writes applications that cite the candidate's evidenced work history. About 222k model calls in production for $348 total, which is roughly a sixth of a cent each.
 
 Before that I spent five years running the data platform for a homeless-services agency. Sixteen programs, HUD federal reporting, and the scheduled work that kept it moving. Those repositories are private, because the data underneath them concerns real people in crisis.
 
