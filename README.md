@@ -9,7 +9,7 @@ Since 2017 I have been building a C++ trading system on my own time. The current
 ## Things you can open
 
 - [alanj.dev](https://alanj.dev), the case studies
-- [HMIS-NL](https://alanj.dev/work/hmis-nl), outcome reporting where two engines check every number and a deadline agent prepares funder reports each morning
+- [HMIS-NL](https://alanj.dev/work/hmis-nl), outcome reporting where each answer names its population and rule, and a deadline agent prepares funder reports each morning
 - [guru](https://github.com/ajd3v/guru), a study companion where every claim is a verbatim cited quote. The reading room is open at [guru.alanj.dev](https://guru.alanj.dev)
 
 Most of my work is in private repositories because of what is in the data. The case studies on [alanj.dev](https://alanj.dev) cover them.
